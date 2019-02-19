@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DemoAsyncTask</string>
+    <string name="text_txt_show">Start Download</string>
+    <string name="text_btn_start">Click Button to Start Download</string>
+    <string name="download_complete">Download complete.....</string>
+    <string name="downloading">Download complete.....</string>
 </resources>
